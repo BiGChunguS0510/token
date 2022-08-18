@@ -53,5 +53,5 @@ If you are hosting frontend code somewhere without using DFX, you may need to ma
 # Dash token
 Created a Site called DSurv similar to https://curve.fi/ to trade a crypto token called DASH that can be used for transanctions with other users
 
-Used the ICP to create the Crypto token and used React to create the frontend of the website
+Used the motoko and ICP to create the Crypto token and used React to create the frontend of the website
 
